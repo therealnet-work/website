@@ -1,49 +1,36 @@
-STRML.net
+frisson.social
 =========
 
-Samuel Reed
-Co-Founder, BitMEX (The Bitcoin Mercantile Exchange)
-Full-Stack / NodeJS / DevOps
+Maximilian Tschauder
+Co-Founder
+Computer Thingis
 
-Contact
+Jona Schulz
+Co-Founder
+Full-Stack / NodeJS
+
+Contact Max
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
-* STRML#7665 on Discord
+* max at frisson dot social
+* @derfrisson on Twitter
+* derFrisson#6394 on Discord
+
+Contact Jona
+-------
+
+* jona at frisson dot social
 
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
+* One more mystery
 and of course...
-* www.strml.net
+* www.frisson.social
 
-Open Source
+Open Source Projects we worked on
 -----------
 
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
-
-Photos
-------
-
-* [Party Rock is in the hou](/img/partyrock1.jpg)
-  * [se tonight](/img/partyrock2.jpg)
+* therealnet-work / website
+* therealnet-work / gameserver-dashboard-frontend
+* TheMarketingCompany / TMC-File-Transfer
